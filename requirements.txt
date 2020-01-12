@@ -3,3 +3,10 @@ pandas
 sklearn
 matplotlib
 jupyter
+bin/
+etc/
+lib/
+share/
+include/
+pip-selfcheck.json
+.ipynb_checkpoints/
