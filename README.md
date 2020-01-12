@@ -1,5 +1,5 @@
 ### Running instructions for linux environment
-#### Prerequisite to have be installed
+#### Prerequisite to have been installed.
 **01.** Python3.6(Python3)  
 **02.** Virtualenv  
 **03.** Requirements that are in **requirements.txt** 
@@ -26,4 +26,8 @@ source bin/active
 Here is the command to Python requirements from a text file.
 ```
 python -m pip install -r requirements.txt
+```
+##### Step 04: Running Jupyter notebook with Python virtual environments
+```
+jupyter notebook
 ```
